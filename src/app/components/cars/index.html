@@ -1,0 +1,9 @@
+<div class="cars">
+    <div class="car" *ngFor="let car of cars$ | async">
+        <img [src]="car.photo">
+        <p>Marca {{car.brand}}</p>
+        <p>Modelo {{car.model}}</p>
+        <p>Año {{car.year}}</p>
+        <p>Precio {{car.price}}</p>
+    </div>
+</div>

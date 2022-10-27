@@ -1,0 +1,19 @@
+[{
+  "photo": "https://www.blogicars.com/public_html/blogicars/wp-content/uploads/2010/09/toyota-barato2.webp",
+  "model": "MO8",
+  "year": 2012,
+  "brand": "TOYOTA",
+  "price": 4000000
+}, {
+  "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQeXMaAbuyaHxCKhl3uXYZqt-_g5DfnR_Jdp9xjcibcU1K8K4gIUAWnmGZ1pGwP8qhH8&usqp=CAU",
+  "model": "J4F",
+  "year": 2000,
+  "brand": "BMW",
+  "price": 500000
+}, {
+  "photo": "https://1794060.fs1.hubspotusercontent-na1.net/hub/1794060/hubfs/Exterior%201.jpg?width=600&name=Exterior%201.jpg",
+  "model": "X56",
+  "year": 2020,
+  "brand": "HONDA",
+  "price": 450000
+}]
